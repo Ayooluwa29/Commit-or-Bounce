@@ -27,3 +27,22 @@
 [2025-11-16 23:51:50] [Installing SQLAlchemy...] 
 [2025-11-16 23:53:01] [Installing requests...] 
 [2025-11-16 23:53:03] [Installing beautifulsoup4...] 
+[0;36m[INFO] [2025-11-20 00:33:53] Starting main execution...[0m
+[0m[] [2025-11-20 00:33:53] [0m
+[0;36m[INFO] [2025-11-20 00:33:53] Virtual environment exists: /Users/aygbedu/MwN/Commit-or-Bounce/LINUX_TASK/.venv[0m
+[0;32m[SUCCESS] [2025-11-20 00:33:53] Virtual environment activated: /Users/aygbedu/MwN/Commit-or-Bounce/LINUX_TASK/.venv[0m
+[0;36m[INFO] [2025-11-20 00:33:53] pip is already installed. Upgrading to the latest...[0m
+[0;32m[SUCCESS] [2025-11-20 00:33:54] pip upgraded successfully.[0m
+[0;36m[INFO] [2025-11-20 00:33:54] /Users/aygbedu/MwN/Commit-or-Bounce/LINUX_TASK/.gitignore already exists.[0m
+[0;36m[INFO] [2025-11-20 00:33:54] Installing Python packages...[0m
+[0;36m[INFO] [2025-11-20 00:33:54] Installing pandas...[0m
+[0;36m[INFO] [2025-11-20 00:33:55] Installing numpy...[0m
+[0;36m[INFO] [2025-11-20 00:33:55] Installing polars...[0m
+[0;36m[INFO] [2025-11-20 00:33:55] Installing pyarrow...[0m
+[0;36m[INFO] [2025-11-20 00:33:55] Installing SQLAlchemy...[0m
+[0;36m[INFO] [2025-11-20 00:33:55] Installing requests...[0m
+[0;36m[INFO] [2025-11-20 00:33:56] Installing beautifulsoup4...[0m
+[0;32m[SUCCESS] [2025-11-20 00:33:56] All packages installed successfully.[0m
+[0;32m[SUCCESS] [2025-11-20 00:33:56] Main execution finished.[0m
+[0;32m[SUCCESS] [2025-11-20 00:33:56] WORK ENVIRONMENT READY! - SETUP COMPLETE![0m
+[0;32m[SUCCESS] [2025-11-20 00:33:56] HAVE FUN BUILDING![0m
