@@ -3,7 +3,7 @@
 DIR=$(pwd)
 SEARCH_VENV=".venv*"
 SEARCH_LOGS="logs*"
-LOG_DIR="$DIR/logs"
+LOG_DIR="${DIR}/logs"
 LOG_FILE="${LOG_DIR}/setup.log"
 # FIND_VENV=$(find "$DIR" -maxdepth 1 -type d -name "$SEARCH_VENV" -print0 | xargs -0)
 # FIND_LOGS=$(find "$DIR" -maxdepth 1 -type d -name "$SEARCH_LOGS" -print0 | xargs -0)

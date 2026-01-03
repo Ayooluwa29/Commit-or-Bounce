@@ -115,12 +115,13 @@ All packages installed successfully.
 
 ### Directory/File Structure
 
-└── .venv
-    └── bin
-    └── include
-    └── lib
-    └── .gitignore
-    └── pyvenv.cfg
+├── .venv
+│   └── bin
+│    └── include
+│    └── lib
+│    └── .gitignore
+│    └── pyvenv.cfg
+
 └── logs
     └── setup.log
 
