@@ -23,8 +23,10 @@ services:
      - .env
     depends_on:
      - mwn-db
-    expose:
-     - 8501
+    # expose:
+    #  - 8501
+    ports:
+    - 8503:8501
 
 volumes:
   postgres-streamlit-db:
